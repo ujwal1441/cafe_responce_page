@@ -129,4 +129,10 @@
  <footer>
     <p>&copy; <span id="year"></span> Café Dhanu. All rights reserved.</p>
   </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+    document.getElementById('hamburger').addEventListener('click',()=>{
+      document.getElementById('menu').classList.toggle('show');
+    });
         
