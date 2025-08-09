@@ -1,6 +1,6 @@
 # Café Dhanu ☕
 
-A responsive café website built with HTML, CSS, and JavaScript.  
+A responsive café website built with HTML.
 Features a modern layout, mobile-friendly navigation, and sections for menu, gallery, about, and contact.
 
 ---
